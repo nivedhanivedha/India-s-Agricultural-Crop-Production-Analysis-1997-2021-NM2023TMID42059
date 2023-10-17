@@ -5,4 +5,4 @@ dashboard 2 link: https://public.tableau.com/app/profile/nivedha.u4783/viz/table
 dashboard 3 link: https://public.tableau.com/app/profile/nivedha.u4783/viz/tableauproject_16971879320810/Dashboard3?publish=yes
 story 1 link: https://public.tableau.com/app/profile/nivedha.u4783/viz/tableauproject_16971879320810/Story1?publish=yes
 story 2 link: https://public.tableau.com/app/profile/nivedha.u4783/viz/tableauproject_16971879320810/Story2?publish=yes
-video link : https://drive.google.com/open?id=1gfwQvjJi3qJO1qsZE9IHSFSzc3HBWzZd&usp=drive_copy
+video link : https://drive.google.com/file/d/1M1l71qN4A_DBWRDiSh1l1ju7s6Y_rn6C/view?usp=drive_link
